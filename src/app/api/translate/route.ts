@@ -123,7 +123,7 @@ const translations: Record<string, Record<string, string>> = {
     '0-3 years': '0-3 سنوات',
     '3-5 years': '3-5 سنوات',
     '5-8 years': '5-8 سنوات',
-    '8-12 years': '8-12 سنة',
+    '8-12 years': '8-12 سنوات',
   },
 };
 
